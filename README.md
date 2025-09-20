@@ -20,9 +20,9 @@
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/debashishutpalbiswas/)  
-- GitHub: [your-username](https://github.com/debashishutpalbiswas-jpg)  
+- LinkedIn: [debashishutpalbiswas](https://www.linkedin.com/in/debashishutpalbiswas/)  
+- GitHub: [debashishutpalbiswas-jpg](https://github.com/debashishutpalbiswas-jpg)  
 
 ---
 
-⭐️ From [Your Name](https://github.com/debashishutpalbiswas-jpg)
+⭐️ From [debashishutpalbiswas-jpg](https://github.com/debashishutpalbiswas-jpg)
